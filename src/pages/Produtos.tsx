@@ -189,7 +189,7 @@ const products = [
   {
     id: 23,
     name: "Bateria Itel",
-    price: 400,
+    price: 150,
     image: "https://sc04.alicdn.com/kf/Hab3344149fa549e29f483fca8e22b632x/257947255/Hab3344149fa549e29f483fca8e22b632x.jpg",
     category: "energia",
     description: "Bateria para o seu Itel 2160"
